@@ -52,4 +52,4 @@ mvn install rm -rf intermediate output
 
 # Output 
 
-# The file output/part-r-00000 will contain the results which must be the same as in solution-small.txt  
+The file output/part-r-00000 will contain the results which must be the same as in solution-small.txt  
